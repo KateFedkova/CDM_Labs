@@ -1,4 +1,4 @@
-# Lab 4: Properties of Functions
+# Lab 4: Number Theory and Functions
 
 import sympy
 from sympy.calculus.util import continuous_domain, function_range
